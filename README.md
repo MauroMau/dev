@@ -1,3 +1,3 @@
 # dev
 
-https://mauromau.github.io/dev
+https://mauromau.github.io/
